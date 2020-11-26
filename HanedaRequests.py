@@ -15,14 +15,15 @@ def getJson():
     return html
 
 def jsonParse(json):
-    pass
+    print(str(json['flight_info'][0]))
+    return
 
 if __name__ == "__main__":
+    dateTime = str(datetime.datetime.now())[0:10]
     content = getJson()
     jsonFile = json.loads(content)
-    # jsonParse(jsonFile)
-    
-    print(datetime.datetime.now().ctime)
-    print(str(jsonFile['flight_info'][0]))
+
+    jsonParse(jsonFile)
     
     pass
+    # pass
