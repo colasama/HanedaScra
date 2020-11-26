@@ -52,7 +52,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'HanedaScra.phantomMiddleware.phantomMiddleware': 543,
+    'HanedaScra.chromeMiddleware.chromeMiddleware': 543,
 }
 
 # Enable or disable extensions

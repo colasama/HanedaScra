@@ -4,13 +4,11 @@ from HanedaScra.items import HanedascraItem
 class HanedaSpider(scrapy.Spider):
     name = 'Haneda'
     allowed_domains = ['tokyo-haneda.com']
-    start_urls = ['http://tokyo-haneda.com/flight/flightInfo_int.html']
+    start_urls = ['https://tokyo-haneda.com/flight/flightInfo_int.html']
 
     def parse(self, response):
         filename = "flightInfo_int.html"
         items = []
-        # print(response.body)
-        # pass
         print("===============")
         print("Here is a Test.")
         print("===============")
@@ -22,9 +20,7 @@ class HanedaSpider(scrapy.Spider):
             #targetFile.write(str(response.body))
             
             name = each.xpath("/tbody[1]/tr[1]/td[1]/span[1]").extract()
-            print("Content: "+name)
-            # print()
-            #open(filename,'w').write(response.body)
+            # print("Content: "+name)
         pass
 
 # /html/body/div/main/div/div[2]/div[1]/div[2]/div[3]/div/div[2]/div[2]/table/tbody[1]/tr[1]/td[1]
