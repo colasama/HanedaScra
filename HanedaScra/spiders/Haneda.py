@@ -12,7 +12,7 @@ class HanedaSpider(scrapy.Spider):
         print("===============")
         print("Here is a Test.")
         print("===============")
-        print(response.xpath("//table/tbody[1]/tr[1]/td[1]"))
+        print(response.xpath("//*[@id='flightSearch']/div[2]/div[3]/div/div[2]/div[2]/table/tbody[1]/tr[1]/td[1]"))
 
         for each in response.xpath("//table"):
             item = HanedascraItem()
@@ -23,6 +23,4 @@ class HanedaSpider(scrapy.Spider):
             # print("Content: "+name)
         pass
 
-# /html/body/div/main/div/div[2]/div[1]/div[2]/div[3]/div/div[2]/div[2]/table/tbody[1]/tr[1]/td[1]
 # //*[@id="flightSearch"]/div[2]/div[3]/div/div[2]/div[2]/table/tbody[1]/tr[1]/td[1]/span[1]
-# https://tokyo-haneda.com/app_resource/flight/data/int/hdacfdep.json
