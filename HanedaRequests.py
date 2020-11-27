@@ -2,13 +2,15 @@ import requests
 import json
 import urllib3
 import datetime
+import uagent
 
 urllib3.disable_warnings()
 url = "https://tokyo-haneda.com/app_resource/flight/data/int/hdacfdep.json"
 
 def getJson():
+    ua = uagent.randomUserAgent()
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        "User-Agent": ua
     }
     html = requests.get(url,headers=headers,verify=False)
     html = html.content

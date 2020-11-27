@@ -1,5 +1,6 @@
+selenium==3.141.0
 Scrapy==2.4.1
 urllib3==1.26.2
-selenium==3.141.0
-itemadapter==0.2.0
 requests==2.25.0
+itemadapter==0.2.0
+Faker==4.17.1

@@ -1,3 +1,4 @@
+import uagent
 # Scrapy settings for HanedaScra project
 #
 # For simplicity, this file contains only settings considered important or
@@ -14,7 +15,7 @@ NEWSPIDER_MODULE = 'HanedaScra.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36'
+USER_AGENT = uagent.randomUserAgent()
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
