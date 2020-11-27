@@ -18,10 +18,7 @@ class chromeMiddleware(object):
             print("Request URL:"+request.url)
             driver.get(request.url)
             # driver.get("https://tokyo-haneda.com/flight/flightInfo_int.html")
-            # time.sleep(1)
-            # js = "var q=document.documentElement.scrollTop=10000" 
-            # driver.execute_script(js)
-            # time.sleep(3)
+
             body = driver.page_source
             print ("访问"+request.url)
             return HtmlResponse(driver.current_url, body=body, encoding='utf-8', request=request)
