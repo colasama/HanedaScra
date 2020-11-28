@@ -8,6 +8,7 @@
 from itemadapter import ItemAdapter
 
 
+
 class HanedascraPipeline:
     def process_item(self, item, spider):
         return item
