@@ -27,16 +27,6 @@ class HanedaSpider(scrapy.Spider):
             boardinggate = each.xpath("./tr[1]/td[9]/span/a/text()").extract()
             flightstatus = each.xpath("./tr[1]/td[10]/text()").extract()
 
-            print(arrivetime)
-            print(destination)
-            print(passbyplace)
-            print(airline)
-            print(flightnumber)
-            print(flightType)
-            print(terminal)
-            print(checkin)
-            print(boardinggate)
-            print(flightstatus)
             if(arrivetime != []):
                 item['arrivetime'] = arrivetime[0]
                 item['changedtime'] = arrivetime[1]
