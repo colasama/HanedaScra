@@ -19,8 +19,8 @@ def getJson():
         return html
     except requests.exceptions.RequestException as e:
         print(e)
-        print("奇怪的错误增加了！")
-        pass
+        print("被远程主机关闭连接了！可能是被识别到是爬虫了？")
+        return None
 
 def jsonParse(json):
     # print(str(json['flight_info'][0]))
@@ -53,8 +53,12 @@ def jsonParse(json):
 if __name__ == "__main__":
     filename = str(datetime.datetime.now())[0:10]
     content = getJson()
+    if (content == None):
+        exit(0)
     jsonFile = json.loads(content)
     resultDict = jsonParse(jsonFile)
+    
     with open(filename+".json", 'w',encoding="utf8") as f:
         json.dump(resultDict,f,ensure_ascii=False,indent=4)
+    print(filename+ " 数据爬取成功！")
     pass

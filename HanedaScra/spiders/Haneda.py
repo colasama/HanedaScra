@@ -17,9 +17,19 @@ class HanedaSpider(scrapy.Spider):
             arrivetime = each.xpath("./tr[1]/td[1]/span/text()").extract()
             destination = each.xpath("./tr[1]/td[2]/text()").extract()
             passbyplace = each.xpath("./tr[1]/td[3]/text()").extract()
-            airline = each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract()
-            if(airline == []):
-                airline = each.xpath("./tr[1]/td[4]/div/span[2]/strong/text()").extract()
+            # /html/body/div/main/div/div[2]/div[1]/div[2]/div[3]/div/div[2]/div[2]/table/tbody[18]/tr[2]/td[1]/div/a
+            # /html/body/div/main/div/div[2]/div[1]/div[2]/div[3]/div/div[2]/div[2]/table/tbody[18]/tr[1]/td[4]/div/a/strong
+            
+            airline = []
+            airline.append(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract())
+            
+            if(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract() == []):
+                airline.append(each.xpath("./tr[1]/td[4]/div/span[2]/strong/text()").extract())
+                
+            for i in range(2,5):
+                if(each.xpath("./tr["+str(i)+"]/td[1]/div/a/text()").extract()!=[]):
+                    airline.append(each.xpath("./tr["+str(i)+"]/td[1]/div/a/text()").extract())
+
             flightnumber = each.xpath("./tr[1]/td[5]/text()").extract()
             flightType = each.xpath("./tr[1]/td[6]/text()").extract()
             terminal = each.xpath("./tr[1]/td[7]/span/a/text()").extract()
