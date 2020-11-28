@@ -3,6 +3,7 @@ import json
 import urllib3
 import datetime
 import uagent
+import re
 
 urllib3.disable_warnings()
 url = "https://tokyo-haneda.com/app_resource/flight/data/int/hdacfdep.json"
@@ -22,32 +23,38 @@ def getJson():
         pass
 
 def jsonParse(json):
-    print(str(json['flight_info'][0]))
-    
-    i = 0
-    while(i != -1):
-        jsonpart = json['flight_info'][i]
-        
-        arrivetime = jsonpart[]          # 整点到达时间
-        changedtime = jsonpart[]         # 改签时间
-        destination = jsonpart[]        # 目的地
-        passbyplace = jsonpart[]         # 经由地
-        airline = jsonpart[]             # 航班名称
-        flightNo = jsonpart[]           # 航班号
-        flightType = jsonpart[]         # 飞机型号
-        terminal = jsonpart[]           # 候机楼
-        checkin = jsonpart[]            # 值班柜台
-        boardinggate = jsonpart[]       # 登机口
-        flightStatus = jsonpart[]           # 现在的情况
-    return
+    # print(str(json['flight_info'][0]))
+    items = []
+    pattern= str(datetime.datetime.now())[0:10].replace('-','/')
+
+    for jsonpart in json['flight_info']:
+        item = {}
+        # print(jsonpart)
+        if(re.search(pattern, jsonpart['定刻'])==None):
+            continue
+
+        item['arrivetime'] = jsonpart['定刻']          # 整点到达时间
+        item['changedtime']  = jsonpart['変更時刻']         # 改签时间
+        item['destination'] = jsonpart['行先地空港和名称']        # 目的地
+        item['passbyplace'] = jsonpart['経由地空港和名称']         # 经由地
+        item['airline'] = []
+        item['flightNo'] = []
+        for each in jsonpart['航空会社']:
+            item['airline'].append(each['ＡＬ和名称'])
+            item['flightNo'].append(each['便名'])
+        item['flighttype'] = jsonpart['機種コード']         # 飞机型号
+        item['terminal'] = jsonpart["ターミナル区分"]           # 候机楼
+        item['checkin'] = jsonpart['チェックインカウンター番号']            # 值班柜台
+        item['flightstatus'] = jsonpart['備考訳名称']['ja']           # 现在的情况
+
+        items.append(item)
+    return items
 
 if __name__ == "__main__":
-    dateTime = str(datetime.datetime.now())[0:10]
+    filename = str(datetime.datetime.now())[0:10]
     content = getJson()
     jsonFile = json.loads(content)
-
-    jsonParse(jsonFile)
-    
+    resultDict = jsonParse(jsonFile)
+    with open(filename+".json", 'w',encoding="utf8") as f:
+        json.dump(resultDict,f,ensure_ascii=False,indent=4)
     pass
-    # pass
-
