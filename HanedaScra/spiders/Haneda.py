@@ -10,7 +10,8 @@ class HanedaSpider(scrapy.Spider):
     def parse(self, response):
         filename = str(datetime.datetime.now())[0:10]
         items = []
-
+        # print(response.xpath("//*[@id='flightSearch']/div[2]/div[3]/div/div[2]/div[2]/table/tbody[2]/tr[2]/td[1]/div/a/text()").extract())
+      
         for each in response.xpath("//*[@id='flightSearch']/div[2]/div[3]/div/div[2]/div[2]/table/tbody"):
             item = HanedascraItem()
 
@@ -21,16 +22,23 @@ class HanedaSpider(scrapy.Spider):
             # /html/body/div/main/div/div[2]/div[1]/div[2]/div[3]/div/div[2]/div[2]/table/tbody[18]/tr[1]/td[4]/div/a/strong
             
             airline = []
-            airline.append(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract())
+            flightnumber = []
+            airline.append(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract()[0]) # 含有超链接的航空公司
             
-            if(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract() == []):
-                airline.append(each.xpath("./tr[1]/td[4]/div/span[2]/strong/text()").extract())
+            if(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract() == []): # 不含超链接的航空公司
+                airline.append(each.xpath("./tr[1]/td[4]/div/span[2]/strong/text()").extract()[0])
                 
-            for i in range(2,5):
-                if(each.xpath("./tr["+str(i)+"]/td[1]/div/a/text()").extract()!=[]):
-                    airline.append(each.xpath("./tr["+str(i)+"]/td[1]/div/a/text()").extract())
+            for i in range(2,7): # 转机，不超过7个
+                if(each.xpath("./tr["+str(i)+"]/td[1]/div/a/text()").extract() != []):
+                    temp = each.xpath("./tr["+str(i)+"]/td[1]/div/a/text()").extract()[0]
+                    airline.append(temp)
 
-            flightnumber = each.xpath("./tr[1]/td[5]/text()").extract()
+            flightnumber.append(each.xpath("./tr[1]/td[5]/text()").extract()[0])
+            for i in range(2,7): # 转机，不超过7个
+                if(each.xpath("./tr["+str(i)+"]/td[2]/text()").extract() != []):
+                    temp = each.xpath("./tr["+str(i)+"]/td[2]/text()").extract()[0]
+                    flightnumber.append(temp)
+
             flightType = each.xpath("./tr[1]/td[6]/text()").extract()
             terminal = each.xpath("./tr[1]/td[7]/span/a/text()").extract()
             checkin = each.xpath("./tr[1]/td[8]/span/a/text()").extract()
@@ -45,9 +53,9 @@ class HanedaSpider(scrapy.Spider):
             if(passbyplace != []):
                 item['passbyplace'] = passbyplace[0]
             if(airline != []):
-                item['airline'] = airline[0]
+                item['airline'] = airline
             if(flightnumber != []):
-                item['flightnumber'] = flightnumber[0]
+                item['flightnumber'] = flightnumber
             if(flightType != []):
                 item['flightType'] = flightType[0]
             if(terminal != []):
