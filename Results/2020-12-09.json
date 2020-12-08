@@ -1,22 +1,6 @@
 [
     {
-        "arrivetime": "2020/12/08 00:05:00",
-        "changedtime": "",
-        "destination": "クアラルンプール",
-        "passbyplace": "",
-        "airline": [
-            "ANA"
-        ],
-        "flightNo": [
-            "0885"
-        ],
-        "flighttype": "78I",
-        "terminal": "3",
-        "checkin": "D/E",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 00:05:00",
+        "arrivetime": "2020/12/09 00:05:00",
         "changedtime": "",
         "destination": "ドバイ",
         "passbyplace": "",
@@ -34,7 +18,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 00:05:00",
+        "arrivetime": "2020/12/09 00:05:00",
+        "changedtime": "",
+        "destination": "クアラルンプール",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0885"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 00:05:00",
         "changedtime": "",
         "destination": "バンコク",
         "passbyplace": "",
@@ -50,7 +50,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 00:05:00",
+        "arrivetime": "2020/12/09 00:05:00",
         "changedtime": "",
         "destination": "ジャカルタ",
         "passbyplace": "",
@@ -66,7 +66,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 00:20:00",
+        "arrivetime": "2020/12/09 00:20:00",
         "changedtime": "",
         "destination": "バンコク",
         "passbyplace": "",
@@ -84,7 +84,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 00:30:00",
+        "arrivetime": "2020/12/09 00:30:00",
         "changedtime": "",
         "destination": "シンガポール",
         "passbyplace": "",
@@ -100,7 +100,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 00:50:00",
+        "arrivetime": "2020/12/09 00:50:00",
         "changedtime": "",
         "destination": "バンコク",
         "passbyplace": "",
@@ -116,8 +116,8 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 00:50:00",
-        "changedtime": "2020/12/08 00:47:00",
+        "arrivetime": "2020/12/09 00:50:00",
+        "changedtime": "2020/12/09 00:45:00",
         "destination": "フランクフルト",
         "passbyplace": "",
         "airline": [
@@ -128,13 +128,13 @@
             "0203",
             "4921"
         ],
-        "flighttype": "77N",
+        "flighttype": "78I",
         "terminal": "3",
         "checkin": "E",
         "flightstatus": "出発済み"
     },
     {
-        "arrivetime": "2020/12/08 00:55:00",
+        "arrivetime": "2020/12/09 00:55:00",
         "changedtime": "",
         "destination": "ミラノ・マルペンサ",
         "passbyplace": "",
@@ -150,7 +150,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 01:30:00",
+        "arrivetime": "2020/12/09 01:30:00",
         "changedtime": "",
         "destination": "マニラ",
         "passbyplace": "",
@@ -166,7 +166,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 01:55:00",
+        "arrivetime": "2020/12/09 01:55:00",
         "changedtime": "",
         "destination": "ウィーン",
         "passbyplace": "",
@@ -182,7 +182,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 01:55:00",
+        "arrivetime": "2020/12/09 01:55:00",
         "changedtime": "",
         "destination": "ソウル(仁川)",
         "passbyplace": "",
@@ -198,7 +198,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 02:00:00",
+        "arrivetime": "2020/12/09 02:00:00",
         "changedtime": "",
         "destination": "ソウル(仁川)",
         "passbyplace": "",
@@ -214,23 +214,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 02:00:00",
-        "changedtime": "",
-        "destination": "上海・浦東",
-        "passbyplace": "",
-        "airline": [
-            "春秋航空"
-        ],
-        "flightNo": [
-            "8516"
-        ],
-        "flighttype": "320",
-        "terminal": "3",
-        "checkin": "C",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 02:05:00",
+        "arrivetime": "2020/12/09 02:05:00",
         "changedtime": "",
         "destination": "シンガポール",
         "passbyplace": "",
@@ -246,23 +230,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 02:05:00",
-        "changedtime": "",
-        "destination": "上海・浦東",
-        "passbyplace": "",
-        "airline": [
-            "吉祥航空"
-        ],
-        "flightNo": [
-            "1386"
-        ],
-        "flighttype": "787",
-        "terminal": "3",
-        "checkin": "K",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 02:10:00",
+        "arrivetime": "2020/12/09 02:10:00",
         "changedtime": "",
         "destination": "上海・浦東",
         "passbyplace": "",
@@ -278,7 +246,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 02:15:00",
+        "arrivetime": "2020/12/09 02:15:00",
         "changedtime": "",
         "destination": "天津",
         "passbyplace": "",
@@ -294,7 +262,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 06:10:00",
+        "arrivetime": "2020/12/09 02:30:00",
+        "changedtime": "",
+        "destination": "済南",
+        "passbyplace": "",
+        "airline": [
+            "山東航空"
+        ],
+        "flightNo": [
+            "8888"
+        ],
+        "flighttype": "738",
+        "terminal": "3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 06:10:00",
         "changedtime": "",
         "destination": "ソウル(仁川)",
         "passbyplace": "",
@@ -312,7 +296,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 07:45:00",
+        "arrivetime": "2020/12/09 07:45:00",
         "changedtime": "",
         "destination": "台北(松山)",
         "passbyplace": "",
@@ -330,7 +314,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:05:00",
+        "arrivetime": "2020/12/09 08:05:00",
         "changedtime": "",
         "destination": "メルボルン",
         "passbyplace": "",
@@ -346,7 +330,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:20:00",
+        "arrivetime": "2020/12/09 08:20:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -364,7 +348,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:30:00",
+        "arrivetime": "2020/12/09 08:30:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -380,41 +364,25 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:40:00",
+        "arrivetime": "2020/12/09 08:35:00",
         "changedtime": "",
-        "destination": "ソウル(金浦)",
+        "destination": "台北(松山)",
         "passbyplace": "",
         "airline": [
-            "アシアナ航空",
-            "ANA"
+            "日本航空",
+            "チャイナエアライン"
         ],
         "flightNo": [
-            "1055",
-            "6983"
+            "0097",
+            "9221"
         ],
-        "flighttype": "333",
+        "flighttype": "789",
         "terminal": "3",
-        "checkin": "B/C",
-        "flightstatus": "欠航"
+        "checkin": "F/G/H",
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 08:40:00",
-        "changedtime": "",
-        "destination": "シドニー",
-        "passbyplace": "",
-        "airline": [
-            "ANA"
-        ],
-        "flightNo": [
-            "0889"
-        ],
-        "flighttype": "78I",
-        "terminal": "3",
-        "checkin": "Q",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 08:40:00",
+        "arrivetime": "2020/12/09 08:40:00",
         "changedtime": "",
         "destination": "上海・浦東",
         "passbyplace": "",
@@ -432,7 +400,41 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:50:00",
+        "arrivetime": "2020/12/09 08:40:00",
+        "changedtime": "",
+        "destination": "シドニー",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0889"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 08:40:00",
+        "changedtime": "",
+        "destination": "ソウル(金浦)",
+        "passbyplace": "",
+        "airline": [
+            "アシアナ航空",
+            "ANA"
+        ],
+        "flightNo": [
+            "1055",
+            "6983"
+        ],
+        "flighttype": "333",
+        "terminal": "3",
+        "checkin": "B/C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 08:50:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -448,7 +450,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:50:00",
+        "arrivetime": "2020/12/09 08:50:00",
         "changedtime": "",
         "destination": "シンガポール",
         "passbyplace": "",
@@ -464,7 +466,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:55:00",
+        "arrivetime": "2020/12/09 08:55:00",
         "changedtime": "",
         "destination": "モスクワ・ドモジェドヴォ",
         "passbyplace": "",
@@ -480,7 +482,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 08:55:00",
+        "arrivetime": "2020/12/09 08:55:00",
         "changedtime": "",
         "destination": "イスタンブール",
         "passbyplace": "",
@@ -496,7 +498,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 09:00:00",
+        "arrivetime": "2020/12/09 09:00:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -512,7 +514,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 09:20:00",
+        "arrivetime": "2020/12/09 09:20:00",
         "changedtime": "",
         "destination": "台北(松山)",
         "passbyplace": "",
@@ -528,7 +530,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 09:20:00",
+        "arrivetime": "2020/12/09 09:20:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -544,23 +546,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 09:25:00",
-        "changedtime": "",
-        "destination": "ストックホルム",
-        "passbyplace": "",
-        "airline": [
-            "ANA"
-        ],
-        "flightNo": [
-            "0221"
-        ],
-        "flighttype": "78E",
-        "terminal": "3",
-        "checkin": "B/C/D/E",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 09:25:00",
+        "arrivetime": "2020/12/09 09:25:00",
         "changedtime": "",
         "destination": "広州",
         "passbyplace": "",
@@ -576,7 +562,55 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 09:50:00",
+        "arrivetime": "2020/12/09 09:25:00",
+        "changedtime": "",
+        "destination": "ストックホルム",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0221"
+        ],
+        "flighttype": "78E",
+        "terminal": "3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 09:30:00",
+        "changedtime": "",
+        "destination": "香港",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0859"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "C/D/E/N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 09:35:00",
+        "changedtime": "",
+        "destination": "マニラ",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0869"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 09:50:00",
         "changedtime": "",
         "destination": "コペンハーゲン",
         "passbyplace": "",
@@ -592,7 +626,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 09:55:00",
+        "arrivetime": "2020/12/09 09:55:00",
         "changedtime": "",
         "destination": "青島",
         "passbyplace": "",
@@ -608,7 +642,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:00:00",
+        "arrivetime": "2020/12/09 10:00:00",
         "changedtime": "",
         "destination": "上海・虹橋",
         "passbyplace": "",
@@ -624,7 +658,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:10:00",
+        "arrivetime": "2020/12/09 10:10:00",
         "changedtime": "",
         "destination": "香港",
         "passbyplace": "",
@@ -644,25 +678,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:15:00",
-        "changedtime": "2020/12/08 10:34:00",
-        "destination": "シカゴ・オヘア",
+        "arrivetime": "2020/12/09 10:15:00",
+        "changedtime": "",
+        "destination": "デリー",
         "passbyplace": "",
         "airline": [
-            "日本航空",
-            "アメリカン航空"
+            "ANA"
         ],
         "flightNo": [
-            "0010",
-            "8405"
+            "0837"
         ],
-        "flighttype": "77W",
+        "flighttype": "78I",
         "terminal": "3",
-        "checkin": "F/G/H",
-        "flightstatus": "出発済み"
+        "checkin": "E",
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 10:20:00",
+        "arrivetime": "2020/12/09 10:20:00",
         "changedtime": "",
         "destination": "ジャカルタ",
         "passbyplace": "",
@@ -678,9 +710,41 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:20:00",
-        "changedtime": "2020/12/08 10:27:00",
+        "arrivetime": "2020/12/09 10:20:00",
+        "changedtime": "",
         "destination": "ニューヨーク(JFK)",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0110"
+        ],
+        "flighttype": "77N",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 10:25:00",
+        "changedtime": "",
+        "destination": "ヒューストン",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0114"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 10:30:00",
+        "changedtime": "",
+        "destination": "ワシントン・ダレス",
         "passbyplace": "",
         "airline": [
             "ANA",
@@ -689,18 +753,34 @@
             "ユナイテッド航空"
         ],
         "flightNo": [
-            "0110",
-            "5916",
-            "6096",
-            "7910"
+            "0102",
+            "5922",
+            "6084",
+            "7942"
         ],
-        "flighttype": "77N",
+        "flighttype": "78I",
         "terminal": "3",
         "checkin": "E",
-        "flightstatus": "出発済み"
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 10:35:00",
+        "arrivetime": "2020/12/09 10:35:00",
+        "changedtime": "",
+        "destination": "台北(松山)",
+        "passbyplace": "",
+        "airline": [
+            "エバー航空"
+        ],
+        "flightNo": [
+            "0189"
+        ],
+        "flighttype": "333",
+        "terminal": "3",
+        "checkin": "K",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 10:35:00",
         "changedtime": "",
         "destination": "バンコク",
         "passbyplace": "",
@@ -718,23 +798,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:35:00",
-        "changedtime": "",
-        "destination": "台北(松山)",
-        "passbyplace": "",
-        "airline": [
-            "エバー航空"
-        ],
-        "flightNo": [
-            "0189"
-        ],
-        "flighttype": "333",
-        "terminal": "3",
-        "checkin": "K",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 10:40:00",
+        "arrivetime": "2020/12/09 10:40:00",
         "changedtime": "",
         "destination": "シカゴ・オヘア",
         "passbyplace": "",
@@ -750,7 +814,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:45:00",
+        "arrivetime": "2020/12/09 10:45:00",
         "changedtime": "",
         "destination": "広州",
         "passbyplace": "",
@@ -768,7 +832,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:50:00",
+        "arrivetime": "2020/12/09 10:50:00",
         "changedtime": "",
         "destination": "深セン",
         "passbyplace": "",
@@ -784,41 +848,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 10:55:00",
-        "changedtime": "2020/12/08 10:52:00",
-        "destination": "ダラス・フォートワース",
+        "arrivetime": "2020/12/09 11:00:00",
+        "changedtime": "",
+        "destination": "バンコク",
         "passbyplace": "",
         "airline": [
-            "日本航空",
-            "アメリカン航空"
+            "ANA"
         ],
         "flightNo": [
-            "0012",
-            "8478"
+            "0847"
         ],
-        "flighttype": "789",
+        "flighttype": "",
         "terminal": "3",
-        "checkin": "F/G/H",
-        "flightstatus": "出発済み"
+        "checkin": "B/C/D/E",
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 10:55:00",
-        "changedtime": "2020/12/08 10:43:00",
-        "destination": "パリ(CDG)",
-        "passbyplace": "",
-        "airline": [
-            "日本航空"
-        ],
-        "flightNo": [
-            "0045"
-        ],
-        "flighttype": "77W",
-        "terminal": "3",
-        "checkin": "F/G/H",
-        "flightstatus": "出発済み"
-    },
-    {
-        "arrivetime": "2020/12/08 11:00:00",
+        "arrivetime": "2020/12/09 11:00:00",
         "changedtime": "",
         "destination": "フランクフルト",
         "passbyplace": "",
@@ -834,7 +880,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 11:05:00",
+        "arrivetime": "2020/12/09 11:05:00",
         "changedtime": "",
         "destination": "シンガポール",
         "passbyplace": "",
@@ -850,65 +896,57 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 11:30:00",
-        "changedtime": "2020/12/08 11:23:00",
+        "arrivetime": "2020/12/09 11:35:00",
+        "changedtime": "",
         "destination": "ロンドン(LHR)",
         "passbyplace": "",
         "airline": [
-            "日本航空",
-            "ブリティッシュ・エアウェイズ"
+            "ANA"
         ],
         "flightNo": [
-            "0043",
-            "4603"
+            "0211"
         ],
-        "flighttype": "789",
+        "flighttype": "77N",
         "terminal": "3",
-        "checkin": "F/G/H",
-        "flightstatus": "出発済み"
+        "checkin": "E",
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 11:35:00",
-        "changedtime": "2020/12/08 11:31:00",
-        "destination": "ヘルシンキ",
+        "arrivetime": "2020/12/09 11:40:00",
+        "changedtime": "",
+        "destination": "パリ(CDG)",
         "passbyplace": "",
         "airline": [
-            "日本航空",
-            "フィンランド航空",
-            "ブリティッシュ・エアウェイズ"
+            "ANA"
         ],
         "flightNo": [
-            "0047",
-            "5082",
-            "4623"
+            "0215"
         ],
-        "flighttype": "789",
+        "flighttype": "78I",
         "terminal": "3",
-        "checkin": "F/G/H",
-        "flightstatus": "出発済み"
+        "checkin": "E",
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 11:45:00",
-        "changedtime": "2020/12/08 11:45:00",
+        "arrivetime": "2020/12/09 11:45:00",
+        "changedtime": "",
         "destination": "ジャカルタ",
         "passbyplace": "",
         "airline": [
             "ガルーダ・インドネシア航空",
-            "日本航空",
             "ANA"
         ],
         "flightNo": [
             "0875",
-            "5011",
             "5481"
         ],
         "flighttype": "333",
         "terminal": "3",
         "checkin": "H",
-        "flightstatus": "出発済み"
+        "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 12:15:00",
+        "arrivetime": "2020/12/09 12:15:00",
         "changedtime": "",
         "destination": "台北(松山)",
         "passbyplace": "",
@@ -924,7 +962,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 12:20:00",
+        "arrivetime": "2020/12/09 12:20:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -942,7 +980,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 12:25:00",
+        "arrivetime": "2020/12/09 12:25:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -960,7 +998,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 12:30:00",
+        "arrivetime": "2020/12/09 12:30:00",
         "changedtime": "",
         "destination": "ミュンヘン",
         "passbyplace": "",
@@ -976,7 +1014,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 12:40:00",
+        "arrivetime": "2020/12/09 12:40:00",
         "changedtime": "",
         "destination": "台北(松山)",
         "passbyplace": "",
@@ -992,7 +1030,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 12:45:00",
+        "arrivetime": "2020/12/09 12:45:00",
         "changedtime": "",
         "destination": "ミュンヘン",
         "passbyplace": "",
@@ -1008,7 +1046,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 13:20:00",
+        "arrivetime": "2020/12/09 13:20:00",
         "changedtime": "",
         "destination": "ローマ・レオナルド・ダ・ヴィンチ",
         "passbyplace": "",
@@ -1026,7 +1064,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 13:30:00",
+        "arrivetime": "2020/12/09 13:30:00",
         "changedtime": "",
         "destination": "上海・虹橋",
         "passbyplace": "",
@@ -1044,7 +1082,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 14:15:00",
+        "arrivetime": "2020/12/09 14:15:00",
         "changedtime": "",
         "destination": "台北(松山)",
         "passbyplace": "",
@@ -1062,7 +1100,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 14:20:00",
+        "arrivetime": "2020/12/09 14:20:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -1078,7 +1116,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 14:30:00",
+        "arrivetime": "2020/12/09 14:30:00",
         "changedtime": "",
         "destination": "上海・虹橋",
         "passbyplace": "",
@@ -1096,23 +1134,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 15:05:00",
-        "changedtime": "",
-        "destination": "フランクフルト",
-        "passbyplace": "",
-        "airline": [
-            "ルフトハンザ・ドイツ航空"
-        ],
-        "flightNo": [
-            "0717"
-        ],
-        "flighttype": "343",
-        "terminal": "3",
-        "checkin": "C",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 15:05:00",
+        "arrivetime": "2020/12/09 15:05:00",
         "changedtime": "",
         "destination": "広州",
         "passbyplace": "",
@@ -1130,7 +1152,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 15:20:00",
+        "arrivetime": "2020/12/09 15:05:00",
+        "changedtime": "",
+        "destination": "フランクフルト",
+        "passbyplace": "",
+        "airline": [
+            "ルフトハンザ・ドイツ航空"
+        ],
+        "flightNo": [
+            "0717"
+        ],
+        "flighttype": "343",
+        "terminal": "3",
+        "checkin": "C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 15:20:00",
         "changedtime": "",
         "destination": "ミネアポリス",
         "passbyplace": "",
@@ -1146,23 +1184,25 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 15:20:00",
+        "arrivetime": "2020/12/09 15:20:00",
         "changedtime": "",
         "destination": "マニラ",
         "passbyplace": "",
         "airline": [
-            "フィリピン航空"
+            "フィリピン航空",
+            "ANA"
         ],
         "flightNo": [
-            "0421"
+            "0421",
+            "5333"
         ],
         "flighttype": "321",
         "terminal": "3",
         "checkin": "B",
-        "flightstatus": "欠航"
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 15:45:00",
+        "arrivetime": "2020/12/09 15:45:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -1180,7 +1220,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 15:55:00",
+        "arrivetime": "2020/12/09 15:55:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -1196,7 +1236,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 15:55:00",
+        "arrivetime": "2020/12/09 15:55:00",
         "changedtime": "",
         "destination": "北京・大興",
         "passbyplace": "",
@@ -1212,7 +1252,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 16:00:00",
+        "arrivetime": "2020/12/09 16:00:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -1228,7 +1268,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 16:05:00",
+        "arrivetime": "2020/12/09 16:05:00",
         "changedtime": "",
         "destination": "香港",
         "passbyplace": "",
@@ -1248,7 +1288,27 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 16:35:00",
+        "arrivetime": "2020/12/09 16:20:00",
+        "changedtime": "",
+        "destination": "ロサンゼルス",
+        "passbyplace": "",
+        "airline": [
+            "日本航空",
+            "アメリカン航空",
+            "ラタム航空"
+        ],
+        "flightNo": [
+            "0016",
+            "8423",
+            "7488"
+        ],
+        "flighttype": "77W",
+        "terminal": "3",
+        "checkin": "F/G/H",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 16:35:00",
         "changedtime": "",
         "destination": "ハノイ",
         "passbyplace": "",
@@ -1264,7 +1324,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 16:40:00",
+        "arrivetime": "2020/12/09 16:40:00",
         "changedtime": "",
         "destination": "シンガポール",
         "passbyplace": "",
@@ -1280,7 +1340,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 17:05:00",
+        "arrivetime": "2020/12/09 16:50:00",
+        "changedtime": "",
+        "destination": "ホーチミン",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0891"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "B/C/D/E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 17:05:00",
         "changedtime": "",
         "destination": "サンノゼ",
         "passbyplace": "",
@@ -1296,7 +1372,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 17:10:00",
+        "arrivetime": "2020/12/09 17:10:00",
         "changedtime": "",
         "destination": "北京・大興",
         "passbyplace": "",
@@ -1312,7 +1388,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 17:20:00",
+        "arrivetime": "2020/12/09 17:20:00",
         "changedtime": "",
         "destination": "シアトル",
         "passbyplace": "",
@@ -1327,10 +1403,28 @@
         "flighttype": "339",
         "terminal": "3",
         "checkin": "I",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 17:25:00",
+        "changedtime": "",
+        "destination": "デトロイト",
+        "passbyplace": "",
+        "airline": [
+            "デルタ航空",
+            "ベトナム航空"
+        ],
+        "flightNo": [
+            "0276",
+            "3030"
+        ],
+        "flighttype": "359",
+        "terminal": "3",
+        "checkin": "I",
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 17:25:00",
+        "arrivetime": "2020/12/09 17:25:00",
         "changedtime": "",
         "destination": "ロサンゼルス",
         "passbyplace": "",
@@ -1348,25 +1442,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 17:25:00",
-        "changedtime": "2020/12/08 17:23:00",
-        "destination": "デトロイト",
-        "passbyplace": "",
-        "airline": [
-            "デルタ航空",
-            "ベトナム航空"
-        ],
-        "flightNo": [
-            "0276",
-            "3030"
-        ],
-        "flighttype": "359",
-        "terminal": "3",
-        "checkin": "I",
-        "flightstatus": "出発済み"
-    },
-    {
-        "arrivetime": "2020/12/08 17:25:00",
+        "arrivetime": "2020/12/09 17:25:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -1382,7 +1458,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 17:35:00",
+        "arrivetime": "2020/12/09 17:35:00",
         "changedtime": "",
         "destination": "アトランタ",
         "passbyplace": "",
@@ -1397,10 +1473,10 @@
         "flighttype": "359",
         "terminal": "3",
         "checkin": "I",
-        "flightstatus": "欠航"
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 18:10:00",
+        "arrivetime": "2020/12/09 18:10:00",
         "changedtime": "",
         "destination": "上海・浦東",
         "passbyplace": "",
@@ -1418,7 +1494,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 18:25:00",
+        "arrivetime": "2020/12/09 18:25:00",
         "changedtime": "",
         "destination": "ポートランド",
         "passbyplace": "",
@@ -1434,7 +1510,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 18:30:00",
+        "arrivetime": "2020/12/09 18:30:00",
         "changedtime": "",
         "destination": "上海・浦東",
         "passbyplace": "",
@@ -1450,7 +1526,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 19:40:00",
+        "arrivetime": "2020/12/09 19:40:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -1466,7 +1542,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 19:45:00",
+        "arrivetime": "2020/12/09 19:45:00",
+        "changedtime": "",
+        "destination": "ソウル(金浦)",
+        "passbyplace": "",
+        "airline": [
+            "大韓航空"
+        ],
+        "flightNo": [
+            "0710"
+        ],
+        "flighttype": "",
+        "terminal": "3",
+        "checkin": "G/H/I/J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 19:45:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -1484,23 +1576,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 19:45:00",
-        "changedtime": "",
-        "destination": "ソウル(金浦)",
-        "passbyplace": "",
-        "airline": [
-            "大韓航空"
-        ],
-        "flightNo": [
-            "0710"
-        ],
-        "flighttype": "",
-        "terminal": "3",
-        "checkin": "G/H/I/J",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 20:00:00",
+        "arrivetime": "2020/12/09 20:00:00",
         "changedtime": "",
         "destination": "上海・浦東",
         "passbyplace": "",
@@ -1516,7 +1592,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 20:00:00",
+        "arrivetime": "2020/12/09 20:00:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -1532,7 +1608,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 20:05:00",
+        "arrivetime": "2020/12/09 20:05:00",
         "changedtime": "",
         "destination": "ソウル(金浦)",
         "passbyplace": "",
@@ -1550,7 +1626,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 21:00:00",
+        "arrivetime": "2020/12/09 20:55:00",
+        "changedtime": "",
+        "destination": "ロサンゼルス",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0126"
+        ],
+        "flighttype": "77I",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 21:00:00",
         "changedtime": "",
         "destination": "ホノルル",
         "passbyplace": "",
@@ -1568,7 +1660,23 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 21:10:00",
+        "arrivetime": "2020/12/09 21:05:00",
+        "changedtime": "",
+        "destination": "シアトル",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0118"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "B/C/D/E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 21:10:00",
         "changedtime": "",
         "destination": "北京・首都",
         "passbyplace": "",
@@ -1584,23 +1692,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 21:55:00",
-        "changedtime": "",
-        "destination": "ホノルル",
-        "passbyplace": "",
-        "airline": [
-            "デルタ航空"
-        ],
-        "flightNo": [
-            "0180"
-        ],
-        "flighttype": "76w",
-        "terminal": "3",
-        "checkin": "J",
-        "flightstatus": "欠航"
-    },
-    {
-        "arrivetime": "2020/12/08 21:55:00",
+        "arrivetime": "2020/12/09 21:55:00",
         "changedtime": "",
         "destination": "ホノルル",
         "passbyplace": "",
@@ -1618,7 +1710,43 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 22:00:00",
+        "arrivetime": "2020/12/09 21:55:00",
+        "changedtime": "",
+        "destination": "バンクーバー",
+        "passbyplace": "",
+        "airline": [
+            "ANA",
+            "エア・カナダ",
+            "ユナイテッド航空"
+        ],
+        "flightNo": [
+            "0116",
+            "6248",
+            "7994"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 21:55:00",
+        "changedtime": "",
+        "destination": "ホノルル",
+        "passbyplace": "",
+        "airline": [
+            "デルタ航空"
+        ],
+        "flightNo": [
+            "0180"
+        ],
+        "flighttype": "76w",
+        "terminal": "3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 22:00:00",
         "changedtime": "",
         "destination": "シドニー",
         "passbyplace": "",
@@ -1636,7 +1764,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 22:15:00",
+        "arrivetime": "2020/12/09 22:15:00",
         "changedtime": "",
         "destination": "ホノルル",
         "passbyplace": "",
@@ -1652,7 +1780,25 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 22:55:00",
+        "arrivetime": "2020/12/09 22:20:00",
+        "changedtime": "",
+        "destination": "シドニー",
+        "passbyplace": "",
+        "airline": [
+            "ANA",
+            "ニュージーランド航空"
+        ],
+        "flightNo": [
+            "0879",
+            "4159"
+        ],
+        "flighttype": "78I",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": ""
+    },
+    {
+        "arrivetime": "2020/12/09 22:55:00",
         "changedtime": "",
         "destination": "シンガポール",
         "passbyplace": "",
@@ -1668,28 +1814,40 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 22:55:00",
-        "changedtime": "2020/12/08 22:26:00",
-        "destination": "イスタンブール",
+        "arrivetime": "2020/12/09 22:55:00",
+        "changedtime": "",
+        "destination": "上海・浦東",
         "passbyplace": "",
         "airline": [
-            "ターキッシュ エアラインズ",
-            "ANA",
-            "エジプト航空"
+            "ANA"
         ],
         "flightNo": [
-            "0199",
-            "6635",
-            "9363"
+            "0967"
         ],
-        "flighttype": "789",
+        "flighttype": "78I",
         "terminal": "3",
-        "checkin": "C",
-        "flightstatus": "出発済み"
+        "checkin": "E",
+        "flightstatus": ""
     },
     {
-        "arrivetime": "2020/12/08 22:55:00",
-        "changedtime": "2020/12/08 22:48:00",
+        "arrivetime": "2020/12/09 22:55:00",
+        "changedtime": "",
+        "destination": "サンフランシスコ",
+        "passbyplace": "",
+        "airline": [
+            "ANA"
+        ],
+        "flightNo": [
+            "0108"
+        ],
+        "flighttype": "77I",
+        "terminal": "3",
+        "checkin": "E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "2020/12/09 22:55:00",
+        "changedtime": "",
         "destination": "ロサンゼルス",
         "passbyplace": "",
         "airline": [
@@ -1703,28 +1861,10 @@
         "flighttype": "77I",
         "terminal": "3",
         "checkin": "E",
-        "flightstatus": "出発済み"
+        "flightstatus": "搭乗手続き中"
     },
     {
-        "arrivetime": "2020/12/08 22:55:00",
-        "changedtime": "2020/12/08 22:48:00",
-        "destination": "サンフランシスコ",
-        "passbyplace": "",
-        "airline": [
-            "ANA",
-            "ユナイテッド航空"
-        ],
-        "flightNo": [
-            "0108",
-            "7939"
-        ],
-        "flighttype": "77I",
-        "terminal": "3",
-        "checkin": "E",
-        "flightstatus": "出発済み"
-    },
-    {
-        "arrivetime": "2020/12/08 23:45:00",
+        "arrivetime": "2020/12/09 23:45:00",
         "changedtime": "",
         "destination": "クアラルンプール",
         "passbyplace": "",
@@ -1740,7 +1880,7 @@
         "flightstatus": "欠航"
     },
     {
-        "arrivetime": "2020/12/08 23:50:00",
+        "arrivetime": "2020/12/09 23:50:00",
         "changedtime": "",
         "destination": "ドーハ",
         "passbyplace": "",

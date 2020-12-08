@@ -1,0 +1,1771 @@
+[
+    {
+        "arrivetime": "00:05",
+        "changedtime": "[ - ]",
+        "destination": "ドバイ",
+        "airline": [
+            "エミレーツ航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "EK0313",
+            "JL5093"
+        ],
+        "flightType": "773",
+        "terminal": "T3",
+        "checkin": "J/L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:05",
+        "changedtime": "[ - ]",
+        "destination": "クアラルンプール",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0885"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:05",
+        "changedtime": "[ - ]",
+        "destination": "バンコク（BKK）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0849"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:05",
+        "changedtime": "[ - ]",
+        "destination": "ジャカルタ",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0871"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:20",
+        "changedtime": "[ - ]",
+        "destination": "バンコク（BKK）",
+        "airline": [
+            "タイ国際航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "TG0661",
+            "NH5965"
+        ],
+        "flightType": "774",
+        "terminal": "T3",
+        "checkin": "M/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:30",
+        "changedtime": "[ - ]",
+        "destination": "シンガポール",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0843"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:50",
+        "changedtime": "[ - ]",
+        "destination": "バンコク（BKK）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0877"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "00:50",
+        "changedtime": "[00:45]",
+        "destination": "フランクフルト",
+        "airline": [
+            "ANA",
+            "ルフトハンザドイツ航空"
+        ],
+        "flightnumber": [
+            "NH0203",
+            "LH4921"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "boardinggate": "110",
+        "flightstatus": "出発済み"
+    },
+    {
+        "arrivetime": "00:55",
+        "changedtime": "[ - ]",
+        "destination": "ミラノ(MXP)",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0207"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "01:30",
+        "changedtime": "[ - ]",
+        "destination": "マニラ",
+        "airline": [
+            "フィリピン航空"
+        ],
+        "flightnumber": [
+            "PR0423"
+        ],
+        "flightType": "321",
+        "terminal": "T3",
+        "checkin": "B",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "01:55",
+        "changedtime": "[ - ]",
+        "destination": "ウィーン",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0205"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "01:55",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（仁川）",
+        "airline": [
+            "ピーチ・アビエーション"
+        ],
+        "flightnumber": [
+            "MM0809"
+        ],
+        "flightType": "320",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "02:00",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（仁川）",
+        "airline": [
+            "大韓航空"
+        ],
+        "flightnumber": [
+            "KE0720"
+        ],
+        "terminal": "T3",
+        "checkin": "G/H/I/J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "02:05",
+        "changedtime": "[ - ]",
+        "destination": "シンガポール",
+        "airline": [
+            "シンガポール航空"
+        ],
+        "flightnumber": [
+            "SQ0639"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "02:10",
+        "changedtime": "[ - ]",
+        "destination": "上海（浦東）",
+        "airline": [
+            "ピーチ・アビエーション"
+        ],
+        "flightnumber": [
+            "MM0899"
+        ],
+        "flightType": "320",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "02:15",
+        "changedtime": "[ - ]",
+        "destination": "天津",
+        "airline": [
+            "天津航空"
+        ],
+        "flightnumber": [
+            "GS7990"
+        ],
+        "flightType": "320",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "02:30",
+        "changedtime": "[ - ]",
+        "destination": "済南",
+        "airline": [
+            " 山東航空"
+        ],
+        "flightnumber": [
+            "SC8888"
+        ],
+        "flightType": "738",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "06:10",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（仁川）",
+        "airline": [
+            "アシアナ航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "OZ0177",
+            "NH6895"
+        ],
+        "flightType": "321",
+        "terminal": "T3",
+        "checkin": "B/C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "07:45",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "チャイナ エアライン",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "CI0223",
+            "JL5041"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:05",
+        "changedtime": "[ - ]",
+        "destination": "メルボルン",
+        "airline": [
+            "カンタス航空"
+        ],
+        "flightnumber": [
+            "QF0080"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:20",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "日本航空",
+            "大韓航空"
+        ],
+        "flightnumber": [
+            "JL0091",
+            "KE5708"
+        ],
+        "flightType": "772",
+        "terminal": "T3",
+        "checkin": "F/H/N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:30",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "中国国際航空"
+        ],
+        "flightnumber": [
+            "CA0184"
+        ],
+        "flightType": "332",
+        "terminal": "T3",
+        "checkin": "K",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:35",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "日本航空",
+            "チャイナ エアライン"
+        ],
+        "flightnumber": [
+            "JL0097",
+            "CI9221"
+        ],
+        "flightType": "789",
+        "terminal": "T3",
+        "checkin": "F/G/H",
+        "boardinggate": "112"
+    },
+    {
+        "arrivetime": "08:40",
+        "changedtime": "[ - ]",
+        "destination": "上海（浦東）",
+        "airline": [
+            "中国東方航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "MU0576",
+            "JL5791"
+        ],
+        "flightType": "773",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:40",
+        "changedtime": "[ - ]",
+        "destination": "シドニー",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0889"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:40",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "アシアナ航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "OZ1055",
+            "NH6983"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "B/C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:50",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0861"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:50",
+        "changedtime": "[ - ]",
+        "destination": "シンガポール",
+        "airline": [
+            "シンガポール航空"
+        ],
+        "flightnumber": [
+            "SQ0631"
+        ],
+        "flightType": "77W",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:55",
+        "changedtime": "[ - ]",
+        "destination": "モスクワ(DME)",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0213"
+        ],
+        "flightType": "76E",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "08:55",
+        "changedtime": "[ - ]",
+        "destination": "イスタンブール",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0219"
+        ],
+        "flightType": "78E",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:00",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0961"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "C/D/E/N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:20",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0851"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:20",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "大韓航空"
+        ],
+        "flightnumber": [
+            "KE0712"
+        ],
+        "terminal": "T3",
+        "checkin": "G/H/I/J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:25",
+        "changedtime": "[ - ]",
+        "destination": "広州",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0923"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "C/D/E/N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:25",
+        "changedtime": "[ - ]",
+        "destination": "ストックホルム",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0221"
+        ],
+        "flightType": "78E",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:30",
+        "changedtime": "[ - ]",
+        "destination": "香港",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0859"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "C/D/E/N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:35",
+        "changedtime": "[ - ]",
+        "destination": "マニラ",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0869"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E"
+    },
+    {
+        "arrivetime": "09:50",
+        "changedtime": "[ - ]",
+        "destination": "コペンハーゲン",
+        "airline": [
+            "スカンジナビア航空"
+        ],
+        "flightnumber": [
+            "SK0984"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "M",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "09:55",
+        "changedtime": "[ - ]",
+        "destination": "青島",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0949"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:00",
+        "changedtime": "[ - ]",
+        "destination": "上海（虹橋）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0969"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:10",
+        "changedtime": "[ - ]",
+        "destination": "香港",
+        "airline": [
+            "キャセイパシフィック",
+            "日本航空",
+            "カタール航空"
+        ],
+        "flightnumber": [
+            "CX0543",
+            "JL7031",
+            "QR5841"
+        ],
+        "flightType": "773",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:15",
+        "changedtime": "[ - ]",
+        "destination": "デリー",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0837"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E"
+    },
+    {
+        "arrivetime": "10:20",
+        "changedtime": "[ - ]",
+        "destination": "ジャカルタ",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0855"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:20",
+        "changedtime": "[ - ]",
+        "destination": "ニューヨーク（JFK)",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0110"
+        ],
+        "flightType": "77N",
+        "terminal": "T3",
+        "checkin": "E"
+    },
+    {
+        "arrivetime": "10:25",
+        "changedtime": "[ - ]",
+        "destination": "ヒューストン",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0114"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E"
+    },
+    {
+        "arrivetime": "10:30",
+        "changedtime": "[ - ]",
+        "destination": "ワシントンDC",
+        "airline": [
+            "ANA",
+            "シンガポール航空",
+            "タイ国際航空",
+            "ユナイテッド航空"
+        ],
+        "flightnumber": [
+            "NH0102",
+            "SQ5922",
+            "TG6084",
+            "UA7942"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "boardinggate": "110"
+    },
+    {
+        "arrivetime": "10:35",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "エバー航空"
+        ],
+        "flightnumber": [
+            "BR0189"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "K",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:35",
+        "changedtime": "[ - ]",
+        "destination": "バンコク（BKK）",
+        "airline": [
+            "タイ国際航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "TG0683",
+            "NH5599"
+        ],
+        "flightType": "774",
+        "terminal": "T3",
+        "checkin": "M/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:40",
+        "changedtime": "[ - ]",
+        "destination": "シカゴ（ORD）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0112"
+        ],
+        "flightType": "77I",
+        "terminal": "T3",
+        "checkin": "C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:45",
+        "changedtime": "[ - ]",
+        "destination": "広州",
+        "airline": [
+            "中国南方航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "CZ3086",
+            "JL5061"
+        ],
+        "flightType": "773",
+        "terminal": "T3",
+        "checkin": "M",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "10:50",
+        "changedtime": "[ - ]",
+        "destination": "深圳",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0965"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "11:00",
+        "changedtime": "[ - ]",
+        "destination": "バンコク（BKK）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0847"
+        ],
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "boardinggate": "107B"
+    },
+    {
+        "arrivetime": "11:00",
+        "changedtime": "[ - ]",
+        "destination": "フランクフルト",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0223"
+        ],
+        "flightType": "77N",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "11:05",
+        "changedtime": "[ - ]",
+        "destination": "シンガポール",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0841"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "11:35",
+        "changedtime": "[ - ]",
+        "destination": "ロンドン（LHR）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0211"
+        ],
+        "flightType": "77N",
+        "terminal": "T3",
+        "checkin": "E",
+        "boardinggate": "110"
+    },
+    {
+        "arrivetime": "11:40",
+        "changedtime": "[ - ]",
+        "destination": "パリ（CDG）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0215"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "boardinggate": "109"
+    },
+    {
+        "arrivetime": "11:45",
+        "changedtime": "[ - ]",
+        "destination": "ジャカルタ",
+        "airline": [
+            "ガルーダ・インドネシア航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "GA0875",
+            "NH5481"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "H",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "12:15",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "エバー航空"
+        ],
+        "flightnumber": [
+            "BR0191"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "K",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "12:20",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "アシアナ航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "OZ1075",
+            "NH6967"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "B/C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "12:25",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "大韓航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "KE0708",
+            "JL5235"
+        ],
+        "flightType": "73J",
+        "terminal": "T3",
+        "checkin": "G/H",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "12:30",
+        "changedtime": "[ - ]",
+        "destination": "ミュンヘン",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0217"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "12:40",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0853"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "12:45",
+        "changedtime": "[ - ]",
+        "destination": "ミュンヘン",
+        "airline": [
+            "ルフトハンザドイツ航空"
+        ],
+        "flightnumber": [
+            "LH0715"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "D",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "13:20",
+        "changedtime": "[ - ]",
+        "destination": "ローマ（FCO）",
+        "airline": [
+            "アリタリア-イタリア航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "AZ0793",
+            "NH6690"
+        ],
+        "flightType": "330",
+        "terminal": "T3",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "13:30",
+        "changedtime": "[ - ]",
+        "destination": "上海（虹橋）",
+        "airline": [
+            "上海航空 (中国東方航空)",
+            "中国東方航空"
+        ],
+        "flightnumber": [
+            "FM0816",
+            "MU9816"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "14:15",
+        "changedtime": "[ - ]",
+        "destination": "台北（松山）",
+        "airline": [
+            "チャイナ エアライン",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "CI0221",
+            "JL5043"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "M",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "14:20",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "中国国際航空"
+        ],
+        "flightnumber": [
+            "CA0182"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "14:30",
+        "changedtime": "[ - ]",
+        "destination": "上海（虹橋）",
+        "airline": [
+            "中国東方航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "MU0538",
+            "JL5643"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "15:05",
+        "changedtime": "[ - ]",
+        "destination": "広州",
+        "airline": [
+            "中国南方航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "CZ0386",
+            "JL5063"
+        ],
+        "flightType": "773",
+        "terminal": "T3",
+        "checkin": "H",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "15:05",
+        "changedtime": "[ - ]",
+        "destination": "フランクフルト",
+        "airline": [
+            "ルフトハンザドイツ航空"
+        ],
+        "flightnumber": [
+            "LH0717"
+        ],
+        "flightType": "343",
+        "terminal": "T3",
+        "checkin": "C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "15:20",
+        "changedtime": "[ - ]",
+        "destination": "ミネアポリス",
+        "airline": [
+            "デルタ航空"
+        ],
+        "flightnumber": [
+            "DL0120"
+        ],
+        "flightType": "777",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "15:20",
+        "changedtime": "[ - ]",
+        "destination": "マニラ",
+        "airline": [
+            "フィリピン航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "PR0421",
+            "NH5333"
+        ],
+        "flightType": "321",
+        "terminal": "T3",
+        "checkin": "B",
+        "boardinggate": "114"
+    },
+    {
+        "arrivetime": "15:45",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "日本航空",
+            "大韓航空"
+        ],
+        "flightnumber": [
+            "JL0093",
+            "KE5710"
+        ],
+        "flightType": "772",
+        "terminal": "T3",
+        "checkin": "F",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "15:55",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0865"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "15:55",
+        "changedtime": "[ - ]",
+        "destination": "北京（大興）",
+        "airline": [
+            "中国南方航空"
+        ],
+        "flightnumber": [
+            "CZ0648"
+        ],
+        "flightType": "330",
+        "terminal": "T3",
+        "checkin": "H/J/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "16:00",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "中国国際航空"
+        ],
+        "flightnumber": [
+            "CA0134"
+        ],
+        "flightType": "321",
+        "terminal": "T3",
+        "checkin": "K/L/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "16:05",
+        "changedtime": "[ - ]",
+        "destination": "香港",
+        "airline": [
+            "キャセイパシフィック",
+            "日本航空",
+            "カタール航空"
+        ],
+        "flightnumber": [
+            "CX0549",
+            "JL7039",
+            "QR5843"
+        ],
+        "flightType": "77W",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "16:20",
+        "changedtime": "[ - ]",
+        "destination": "ロサンゼルス",
+        "airline": [
+            "日本航空",
+            "アメリカン航空",
+            "LATAM航空 (LAN)"
+        ],
+        "flightnumber": [
+            "JL0016",
+            "AA8423",
+            "LA7488"
+        ],
+        "flightType": "77W",
+        "terminal": "T3",
+        "checkin": "F/G/H",
+        "boardinggate": "111"
+    },
+    {
+        "arrivetime": "16:35",
+        "changedtime": "[ - ]",
+        "destination": "ハノイ",
+        "airline": [
+            "ベトナム航空"
+        ],
+        "flightnumber": [
+            "VN0385"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "16:40",
+        "changedtime": "[ - ]",
+        "destination": "シンガポール",
+        "airline": [
+            "シンガポール航空"
+        ],
+        "flightnumber": [
+            "SQ0633"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "16:50",
+        "changedtime": "[ - ]",
+        "destination": "ホーチミン",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0891"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E"
+    },
+    {
+        "arrivetime": "17:05",
+        "changedtime": "[ - ]",
+        "destination": "サンノゼ",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0120"
+        ],
+        "flightType": "78E",
+        "terminal": "T3",
+        "checkin": "B/C/D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "17:10",
+        "changedtime": "[ - ]",
+        "destination": "北京（大興）",
+        "airline": [
+            "中国東方航空"
+        ],
+        "flightnumber": [
+            "MU0790"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "G/K/L/M/N/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "17:20",
+        "changedtime": "[ - ]",
+        "destination": "シアトル",
+        "airline": [
+            "デルタ航空",
+            "ベトナム航空"
+        ],
+        "flightnumber": [
+            "DL0166",
+            "VN3020"
+        ],
+        "flightType": "339",
+        "terminal": "T3",
+        "checkin": "I"
+    },
+    {
+        "arrivetime": "17:25",
+        "changedtime": "[ - ]",
+        "destination": "デトロイト",
+        "airline": [
+            "デルタ航空",
+            "ベトナム航空"
+        ],
+        "flightnumber": [
+            "DL0276",
+            "VN3030"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "I",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "17:25",
+        "changedtime": "[ - ]",
+        "destination": "ロサンゼルス",
+        "airline": [
+            "デルタ航空",
+            "ベトナム航空"
+        ],
+        "flightnumber": [
+            "DL0008",
+            "VN3028"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "17:25",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0963"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "Q",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "17:35",
+        "changedtime": "[ - ]",
+        "destination": "アトランタ",
+        "airline": [
+            "デルタ航空",
+            "ベトナム航空"
+        ],
+        "flightnumber": [
+            "DL0296",
+            "VN3010"
+        ],
+        "flightType": "359",
+        "terminal": "T3",
+        "checkin": "I"
+    },
+    {
+        "arrivetime": "18:10",
+        "changedtime": "[ - ]",
+        "destination": "上海（浦東）",
+        "airline": [
+            "中国東方航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "MU0540",
+            "JL5793"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "18:25",
+        "changedtime": "[ - ]",
+        "destination": "ポートランド",
+        "airline": [
+            "デルタ航空"
+        ],
+        "flightnumber": [
+            "DL0068"
+        ],
+        "flightType": "76w",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "18:30",
+        "changedtime": "[ - ]",
+        "destination": "上海（浦東）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0971"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "19:40",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "中国国際航空"
+        ],
+        "flightnumber": [
+            "CA0168"
+        ],
+        "flightType": "332",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "19:45",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "大韓航空"
+        ],
+        "flightnumber": [
+            "KE0710"
+        ],
+        "terminal": "T3",
+        "checkin": "G/H/I/J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "19:45",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "日本航空",
+            "大韓航空"
+        ],
+        "flightnumber": [
+            "JL0095",
+            "KE5712"
+        ],
+        "flightType": "772",
+        "terminal": "T3",
+        "checkin": "F",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "20:00",
+        "changedtime": "[ - ]",
+        "destination": "上海（浦東）",
+        "airline": [
+            "上海航空 (中国東方航空)"
+        ],
+        "flightnumber": [
+            "FM0896"
+        ],
+        "flightType": "789",
+        "terminal": "T3",
+        "checkin": "G/H/M/N",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "20:00",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0867"
+        ],
+        "flightType": "788",
+        "terminal": "T3",
+        "checkin": "D/E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "20:05",
+        "changedtime": "[ - ]",
+        "destination": "ソウル（金浦）",
+        "airline": [
+            "アシアナ航空",
+            "ANA"
+        ],
+        "flightnumber": [
+            "OZ1035",
+            "NH6969"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "B/C",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "20:55",
+        "changedtime": "[ - ]",
+        "destination": "ロサンゼルス",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0126"
+        ],
+        "flightType": "77I",
+        "terminal": "T3",
+        "checkin": "E"
+    },
+    {
+        "arrivetime": "21:00",
+        "changedtime": "[ - ]",
+        "destination": "ホノルル",
+        "airline": [
+            "日本航空",
+            "ハワイアン航空"
+        ],
+        "flightnumber": [
+            "JL0074",
+            "HA5389"
+        ],
+        "flightType": "789",
+        "terminal": "T3",
+        "checkin": "F/G/H/M/N/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "21:05",
+        "changedtime": "[ - ]",
+        "destination": "シアトル",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0118"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "B/C/D/E"
+    },
+    {
+        "arrivetime": "21:10",
+        "changedtime": "[ - ]",
+        "destination": "北京（首都）",
+        "airline": [
+            "中国国際航空"
+        ],
+        "flightnumber": [
+            "CA0422"
+        ],
+        "flightType": "321",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "21:55",
+        "changedtime": "[ - ]",
+        "destination": "ホノルル",
+        "airline": [
+            "日本航空",
+            "ハワイアン航空"
+        ],
+        "flightnumber": [
+            "JL0072",
+            "HA5391"
+        ],
+        "flightType": "789",
+        "terminal": "T3",
+        "checkin": "F/G/H/M/N/S",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "21:55",
+        "changedtime": "[ - ]",
+        "destination": "バンクーバー",
+        "airline": [
+            "ANA",
+            "エア・カナダ",
+            "ユナイテッド航空"
+        ],
+        "flightnumber": [
+            "NH0116",
+            "AC6248",
+            "UA7994"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "boardinggate": "113"
+    },
+    {
+        "arrivetime": "21:55",
+        "changedtime": "[ - ]",
+        "destination": "ホノルル",
+        "airline": [
+            "デルタ航空"
+        ],
+        "flightnumber": [
+            "DL0180"
+        ],
+        "flightType": "76w",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "22:00",
+        "changedtime": "[ - ]",
+        "destination": "シドニー",
+        "airline": [
+            "カンタス航空",
+            "LATAM航空 (LAN)"
+        ],
+        "flightnumber": [
+            "QF0026",
+            "LA8416"
+        ],
+        "flightType": "744",
+        "terminal": "T3",
+        "checkin": "J",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "22:15",
+        "changedtime": "[ - ]",
+        "destination": "ホノルル",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0186"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "22:20",
+        "changedtime": "[ - ]",
+        "destination": "シドニー",
+        "airline": [
+            "ANA",
+            "ニュージーランド航空"
+        ],
+        "flightnumber": [
+            "NH0879",
+            "NZ4159"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E",
+        "boardinggate": "107B"
+    },
+    {
+        "arrivetime": "22:55",
+        "changedtime": "[ - ]",
+        "destination": "シンガポール",
+        "airline": [
+            "シンガポール航空"
+        ],
+        "flightnumber": [
+            "SQ0635"
+        ],
+        "flightType": "77W",
+        "terminal": "T3",
+        "checkin": "A",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "22:55",
+        "changedtime": "[ - ]",
+        "destination": "上海（浦東）",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0967"
+        ],
+        "flightType": "78I",
+        "terminal": "T3",
+        "checkin": "E"
+    },
+    {
+        "arrivetime": "22:55",
+        "changedtime": "[ - ]",
+        "destination": "サンフランシスコ",
+        "airline": [
+            "ANA"
+        ],
+        "flightnumber": [
+            "NH0108"
+        ],
+        "flightType": "77I",
+        "terminal": "T3",
+        "checkin": "E",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "22:55",
+        "changedtime": "[ - ]",
+        "destination": "ロサンゼルス",
+        "airline": [
+            "ANA",
+            "ユナイテッド航空"
+        ],
+        "flightnumber": [
+            "NH0106",
+            "UA7982"
+        ],
+        "flightType": "77I",
+        "terminal": "T3",
+        "checkin": "E",
+        "flightstatus": "搭乗手続き中"
+    },
+    {
+        "arrivetime": "23:45",
+        "changedtime": "[ - ]",
+        "destination": "クアラルンプール",
+        "airline": [
+            "エアアジアＸ"
+        ],
+        "flightnumber": [
+            "D70523"
+        ],
+        "flightType": "333",
+        "terminal": "T3",
+        "checkin": "K",
+        "flightstatus": "欠航"
+    },
+    {
+        "arrivetime": "23:50",
+        "changedtime": "[ - ]",
+        "destination": "ドーハ",
+        "airline": [
+            "カタール航空",
+            "日本航空"
+        ],
+        "flightnumber": [
+            "QR0813",
+            "JL7999"
+        ],
+        "flightType": "351",
+        "terminal": "T3",
+        "checkin": "L",
+        "flightstatus": "欠航"
+    }
+]
