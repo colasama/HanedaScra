@@ -23,7 +23,8 @@ class HanedaSpider(scrapy.Spider):
             
             airline = []
             flightnumber = []
-            airline.append(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract()[0]) # 含有超链接的航空公司
+            if(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract()[0] != []):
+                airline.append(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract()[0]) # 含有超链接的航空公司
             
             if(each.xpath("./tr[1]/td[4]/div/a/strong/text()").extract() == []): # 不含超链接的航空公司
                 airline.append(each.xpath("./tr[1]/td[4]/div/span[2]/strong/text()").extract()[0])
