@@ -17,10 +17,9 @@ class chromeMiddleware(object):
 
             print("Request URL:"+request.url)
             driver.get(request.url)
-            # driver.get("https://tokyo-haneda.com/flight/flightInfo_int.html")
 
             body = driver.page_source
-            print ("访问"+request.url)
+            print ("Now visiting "+request.url)
             return HtmlResponse(driver.current_url, body=body, encoding='utf-8', request=request)
 
         else:
