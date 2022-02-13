@@ -20,6 +20,7 @@ FEED_EXPORT_ENCODING = 'utf-8'
 # USER_AGENT = uagent.randomUserAgent()
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
+SQLITE_DB_NAME = 'result.db'
 
 DEFAULT_REQUEST_HEADERS = {
   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -29,6 +30,10 @@ DEFAULT_REQUEST_HEADERS = {
 
 DOWNLOADER_MIDDLEWARES = {
     'BdiaCrawler.chrome_middleware.chromeMiddleware': 543,
+}
+
+ITEM_PIPELINES = {
+    'BdiaCrawler.pipelines.SQLite3Pipeline': 400,
 }
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

@@ -32,15 +32,21 @@ class BdiaSpider(scrapy.Spider):
             item['plan_departure_time'] = plan_departure_time[0]
             if(acture_departure_time != []):
                 item['acture_departure_time'] = acture_departure_time[0]
+            else:
+                item['acture_departure_time'] = None
             if(est_departure_time != []):
                 item['est_departure_time'] = est_departure_time[0].replace("预计\n                            ","")
+            else:
+                item['est_departure_time'] = None
             item['flight_company'] = flight_company
             item['flight_number'] = flight_number
             item['flight_destination'] = flight_destination[0]
             item['flight_check_in'] = flight_check_in[0]
             if(boarding_port != []):
                 item['boarding_port'] = boarding_port[0]
+            else:
+                item['boarding_port'] = None
             item['flight_stat'] = flight_stat[0]
             items.append(item)
-        print("i:"+str(i))
+            
         return items
